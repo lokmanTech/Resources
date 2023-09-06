@@ -1,5 +1,5 @@
-# 07 Resources
-Welcome to my Data Science journey repository! Here's an overview of the content:
+# 11 Resources
+Welcome to my Business Scientist journey repository! Here's an overview of the content:
 
 - [01 ](https://github.com/lokmanTech/)
   
